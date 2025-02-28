@@ -2,7 +2,7 @@
 ## Languages Known
 ![My Skills](https://skillicons.dev/icons?i=js,html,css)![My Skills](https://skillicons.dev/icons?i=python,java,nodejs,mongodb)
 ## Applications Known
-![My Skills](https://skillicons.dev/icons?i=figma&theme=light,vscode,)
+![My Skills](https://skillicons.dev/icons?i=figma&theme=light,vscode)
 
 <!--
 **YogananthJ/YogananthJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
