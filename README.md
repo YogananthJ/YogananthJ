@@ -1,8 +1,8 @@
 ## Hi there 👋
 ## Languages Known
-![My Skills](https://skillicons.dev/icons?i=js,html,css)![My Skills](https://skillicons.dev/icons?i=python,java,nodejs,mongodb)
+![My Skills](https://skillicons.dev/icons?i=js,html,css)![My Skills](https://skillicons.dev/icons?i=python,java,nodejs,mongodb,vscode,figma&theme=light)
 ## Applications Known
-(https://skillicons.dev/icons?i=figma&theme=light,vscode)
+
 
 <!--
 **YogananthJ/YogananthJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
