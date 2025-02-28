@@ -1,6 +1,8 @@
 ## Hi there 👋
+## Reach Me
+
 ## Languages Known
-![My Skills](https://skillicons.dev/icons?i=js,html,css) ![My Skills](https://skillicons.dev/icons?i=python,java,nodejs,mongodb,vscode,figma&theme=light)
+![My Skills](https://skillicons.dev/icons?i=js,html,css) ![My Skills](https://skillicons.dev/icons?i=python,java,nodejs)
 ## Applications Known
 ![My Skills](https://skillicons.dev/icons?i=mongodb,vscode,figma&theme=light)
 
