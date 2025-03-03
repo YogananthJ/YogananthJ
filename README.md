@@ -2,7 +2,7 @@
 
 
 ![My Skills](https://skillicons.dev/icons?i=js,html,css) ![My Skills](https://skillicons.dev/icons?i=python,java,nodejs) ![My Skills](https://skillicons.dev/icons?i=mongodb,vscode,figma&theme=light)
-![Quick Draw Badge](https://img.shields.io/badge/Quick%20Draw%20Winner-%F0%9F%96%8C-brightgreen)
+
 
 
 <!--
