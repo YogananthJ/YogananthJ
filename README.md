@@ -10,9 +10,9 @@
     </td>
     <td>
       <p>
-        <strong style="font-size: 20px;">👋 Hi, I'm <span style="color:#F57C00;">Your Name</span></strong><br>
+        <strong style="font-size: 20px;">👋 Hi, I'm <span style="color:#F57C00;">Yogananth J</span></strong><br>
         💼 <strong>Role:</strong> Full-Stack Developer<br>
-        📧 <strong>Email:</strong> your.email@example.com<br>
+        📧 <strong>Email:</strong> mjyogananth@gmail.com<br>
         🆔 <strong>GitHub ID:</strong> your-github-id<br>
         🔗 <strong>LinkedIn:</strong> <a href="https://linkedin.com/in/yourlinkedinid" target="_blank">linkedin.com/in/yourlinkedinid</a>
       </p>
