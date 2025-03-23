@@ -11,10 +11,9 @@
     <td>
       <p>
         <strong style="font-size: 20px;">👋 Hi, I'm <span style="color:#F57C00;">Yogananth J</span></strong><br>
-        💼 <strong>Role:</strong> Full-Stack Developer<br>
         📧 <strong>Email:</strong> mjyogananth@gmail.com<br>
-        🆔 <strong>GitHub ID:</strong> your-github-id<br>
-        🔗 <strong>LinkedIn:</strong> <a href="https://linkedin.com/in/yourlinkedinid" target="_blank">linkedin.com/in/yourlinkedinid</a>
+        <strong>Reach me @:<br>
+        🔗 <strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/yogananth-j-653400307/" target="_blank">Linked in</a>
       </p>
     </td>
   </tr>
