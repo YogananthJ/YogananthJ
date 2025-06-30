@@ -5,6 +5,7 @@
 
 <h1 align="center">👋 Hey there, I'm <span style="color:#F57C00;">Yogananth J</span></h1>
 
+---
 
 ## 🌐 Connect with Me  
 
@@ -94,13 +95,12 @@
 
 ---
 
-## 💻 LeetCode Stats  
+<!-- ## 💻 LeetCode Stats  
 
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/daCAlPpVNK?ext=heatmap&theme=dark" alt="LeetCode Stats"/>
-</p>
+</p> -->
 
----
 
 
 
