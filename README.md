@@ -89,8 +89,8 @@
   <img src="https://github-readme-stats.vercel.app/api?username=YogananthJ&show_icons=true&theme=radical" alt="GitHub Stats" />
   <br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=YogananthJ&theme=radical" alt="GitHub Streak" />
-  <br>
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=YogananthJ&theme=rogue" alt="Contribution Graph" />
+<!--   <br>
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=YogananthJ&theme=rogue" alt="Contribution Graph" /> -->
 </p>
 
 ---
@@ -103,7 +103,7 @@
 
 ## 📊 My 3D Contribution Graph
 
-![3D Contribution Graph](./profile-3d-contrib/profile-green-animate.svg)
+![3D Contribution Graph](./profile-3d-contrib/profile-night-green.svg)
 
 
 
