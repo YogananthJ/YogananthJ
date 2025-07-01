@@ -94,6 +94,8 @@
 </p>
 
 ---
+![snake gif](https://github.com/YogananthJ/YogananthJ/blob/output/github-contribution-grid-snake.svg)
+
 
 <!-- ## 💻 LeetCode Stats  
 
