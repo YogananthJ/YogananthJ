@@ -88,13 +88,13 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=YogananthJ&show_icons=true&theme=radical" alt="GitHub Stats" />
   <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YogananthJ&theme=radical" alt="GitHub Streak" />
-<!--   <br>
+<!--   <img src="https://github-readme-streak-stats.herokuapp.com/?user=YogananthJ&theme=radical" alt="GitHub Streak" />
+<!--   <br> -->
   <img src="https://github-readme-activity-graph.cyclic.app/graph?username=YogananthJ&theme=rogue" alt="Contribution Graph" /> -->
 </p>
 
 ---
-![snake gif](https://github.com/YogananthJ/YogananthJ/blob/output/github-contribution-grid-snake.svg)
+<!--![snake gif](https://github.com/YogananthJ/YogananthJ/blob/output/github-contribution-grid-snake.svg)-->
 
 
 <!-- ## 💻 LeetCode Stats  
