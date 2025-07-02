@@ -108,6 +108,10 @@
 ![3D Contribution Graph](./profile-3d-contrib/profile-night-green.svg)
 
 
+[![Refresh 3D Graph](https://img.shields.io/badge/Refresh_3D_Graph-Click_to_Run-blue)](https://github.com/YogananthJ/YogananthJ/actions/workflows/profile-3d.yml)
+
+
+
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=FF7F50&center=true&width=435&lines=Always+Learning+New+Things!;Love+To+Build+Cool+Stuff!;Full+Stack+%7C+AI+%7C+ML+Explorer" alt="Typing SVG"/>
