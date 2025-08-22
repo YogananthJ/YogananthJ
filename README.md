@@ -7,6 +7,18 @@
 
 ---
 
+## 🧭 About
+```bash
+$ whoami
+> Yogananth J  # builder-at-heart
+
+$ interests
+> UI/UX, Data Analyst, AI/ML
+
+$ motto
+> Make it work → Make it right → Make it fast
+```
+
 ## 🌐 Connect with Me  
 
 <p align="center">
