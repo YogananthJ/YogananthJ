@@ -34,8 +34,8 @@ $ motto
 </p>
 <!-- Add this under your H1 for a large CTA -->
 <p align="center">
-  <a href="https://mjyogananth.netlify.app" target="_blank" rel="noopener noreferrer" aria-label="Open Yogananth's website">
-    <img src="https://img.shields.io/badge/Visit%20My%20Website-%20mjyogananth.netlify.app-000000?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Visit my website"/>
+  <a href="https://https://iam-mjyogananth.pages.dev" target="_blank" rel="noopener noreferrer" aria-label="Open Yogananth's website">
+    <img src="https://img.shields.io/badge/Visit%20My%20Website-%20https://iam-mjyogananth.pages.dev-000000?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Visit my website"/>
   </a>
 </p>
 
